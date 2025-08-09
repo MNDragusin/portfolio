@@ -12,16 +12,16 @@ Due to company policy, I can’t share the source code, but here are public vide
 **Platforms:** Fire Tablets, iOS  
 **Skills Used:** Unity, C#, Swift, custom tool creation, cross-platform development  
 **Games:** 
-[Words](https://youtu.be/AYASdm6dnVQ?si=I0Sjltsl1UGImaR)
-[ABCs]()
-[Numbers](https://youtu.be/DO801W5o9Ic?si=5HMLbb8asPM1QD7S)
-[Tangram](https://youtu.be/88NIZXw9OSc?si=VpykOgU-yK_V0vm4)
-[MasterPiece](https://youtu.be/0upQlA6K5YI?si=k01XeyaRj7jdwAYN)
-[Coding Awbie](https://youtu.be/0Im8y4jKqQ0?si=bRgjv_mh4J23QnT4)
-[Monster](https://youtu.be/_HeZmdc-pgY?si=gsbeP8HYANfaipEj)
-[Pizza Co](https://youtu.be/zAl68Ia9rgw?si=3jVTGLpyu6CAHd4-)
-[Coding Jam](https://youtu.be/MtuxLXrYYsw?si=Rbx-KJ3PavdVVdYu)
-[Super Studio Disney Frozen 2](https://youtu.be/j5DDNHUILuc?si=4ANxWOBRVCZHMNUm)
+[Words](https://youtu.be/AYASdm6dnVQ?si=I0Sjltsl1UGImaR) |
+[ABCs]() |
+[Numbers](https://youtu.be/DO801W5o9Ic?si=5HMLbb8asPM1QD7S) |
+[Tangram](https://youtu.be/88NIZXw9OSc?si=VpykOgU-yK_V0vm4) |
+[MasterPiece](https://youtu.be/0upQlA6K5YI?si=k01XeyaRj7jdwAYN) |
+[Coding Awbie](https://youtu.be/0Im8y4jKqQ0?si=bRgjv_mh4J23QnT4) |
+[Monster](https://youtu.be/_HeZmdc-pgY?si=gsbeP8HYANfaipEj) |
+[Pizza Co](https://youtu.be/zAl68Ia9rgw?si=3jVTGLpyu6CAHd4-) |
+[Coding Jam](https://youtu.be/MtuxLXrYYsw?si=Rbx-KJ3PavdVVdYu) |
+[Super Studio Disney Frozen 2](https://youtu.be/j5DDNHUILuc?si=4ANxWOBRVCZHMNUm) |
 
 **Highlights:**
 - Built reusable internal tools across games (state systems, loading controller)  
@@ -33,7 +33,7 @@ Due to company policy, I can’t share the source code, but here are public vide
 ### **Link Twin – Nintendo Switch**
 **Role:** Unity Porting & Optimization Engineer  
 **Platform:** Nintendo Switch  
-**Game:**[Link Twin](https://youtu.be/y-Zk9Zpo9Vw?si=FL16FGdfAxxtjpi3)
+**Video:** [YouTube Link](https://youtu.be/y-Zk9Zpo9Vw?si=FL16FGdfAxxtjpi3)
 
 **Highlights:**
 - Ported mobile title to console with resolution, input, and UI adaptations  
@@ -45,7 +45,7 @@ Due to company policy, I can’t share the source code, but here are public vide
 ### **Pro Era II – VR**
 **Role:** Unity VR Developer  
 **Platforms:** Pico VR Headsets & Meta Quest 3  
-**Game:**[Pro Era II](https://youtu.be/RXcKQ9LrY0U?si=A8TROAO4hll1Wcn5)
+**Video:** [YouTube Link](https://youtu.be/RXcKQ9LrY0U?si=A8TROAO4hll1Wcn5)
 
 **Highlights:**
 - Collaborated on real-time multiplayer mechanics for immersive VR sports  
